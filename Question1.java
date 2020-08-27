@@ -15,5 +15,5 @@ class Solution {
 
 class Driver{
 
-    system.out.println("Please enter")
+    system.out.println("Please enter");
 }
